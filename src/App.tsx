@@ -1,6 +1,8 @@
+import Header from "./components/header/header.component"
+
 const App = () => {
   return (
-    <h1>Teste</h1>
+    <Header />
   )
 }
 
